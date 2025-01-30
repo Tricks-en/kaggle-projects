@@ -1,5 +1,10 @@
 # Running Linear and Multi-Regressions on a dataset of Boston Houses
 
+We can see here that the estimated value of home-value (MEDV) approximates true values seen in the data set (observation 13)
+![image](https://github.com/user-attachments/assets/f1a341f3-0756-44e0-a34e-26d482883f82)
+![image](https://github.com/user-attachments/assets/02cb3602-95a2-49e9-bca4-f5e811044fe3)  
+~4% error for this observation
+
 ### Data set Summary:
 
 - CRIM: per capita crime rate by town
