@@ -23,7 +23,8 @@ We can see here that the estimated value of home-value (MEDV) approximates true 
 
 - MEDV: Median value of owner-occupied homes in $1000s
 
-### Not all variables were used for regression and estimation due to low correlation with Home Value.
+Not all variables were used for regression and estimation due to low correlation with Home Value.
+### Linear Regressions showing coorelation:
 
 ![TAX_lr](https://github.com/user-attachments/assets/95a63676-13fd-4609-a106-60f8b62ccb73)
 ![RM_lr](https://github.com/user-attachments/assets/19ce530b-8cf4-443c-becf-c8efabbdbe73)
